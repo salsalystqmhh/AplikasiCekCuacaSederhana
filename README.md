@@ -43,5 +43,5 @@ Aplikasi Cek Cuaca Sederhana menawarkan fitur-fitur berikut:
 4. Jalankan kelas Tugas6 untuk memulai aplikasi.
 
 ## Demo
-![Demo GIF](img/giftugas6.gif)
+![Demo GIF](img/tugas6.gif)
 
