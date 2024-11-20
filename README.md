@@ -11,7 +11,7 @@ Aplikasi Cek Cuaca Sederhana adalah aplikasi berbasis Java yang memungkinkan pen
 
 ## Pembuat Aplikasi
 
-Tugas 6 - LENOVO
+Salsa Alya Istiqamah - 2210010089 - Tugas 6
 
 ## Fitur
 
